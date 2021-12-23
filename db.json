@@ -1,0 +1,94 @@
+{
+  "peliculas": [
+    {
+      "nombre": "p4",
+      "director": "p4",
+      "clasificacion": "p4",
+      "id": 2
+    },
+    {
+      "id": 3,
+      "nombre": "Todo Sobre Mi Madre",
+      "director": "Almodobar",
+      "clasificacion": "Drama"
+    },
+    {
+      "id": 4,
+      "nombre": "300",
+      "director": "Zack Snyder",
+      "clasificacion": "Acción"
+    },
+    {
+      "id": 5,
+      "nombre": "El silencio de los corderos",
+      "director": "Jonathan Demme",
+      "clasificacion": "Drama"
+    },
+    {
+      "id": 6,
+      "nombre": "Forrest Gump",
+      "director": "Robert Zemeckis",
+      "clasificacion": "Comedia"
+    },
+    {
+      "id": 7,
+      "nombre": "Las Hurdes",
+      "director": "Luis Buñuel",
+      "clasificacion": "Documental"
+    },
+    {
+      "id": 8,
+      "nombre": "Dos policías rebeldes",
+      "director": "Michael Bay",
+      "clasificacion": "Comedia"
+    },
+    {
+      "nombre": "La familia perfecta",
+      "director": "Arantxa Echevarria",
+      "clasificacion": "Comedia",
+      "id": 9
+    },
+    {
+      "nombre": "p5",
+      "director": "p5",
+      "clasificacion": "p5",
+      "id": 10
+    },
+    {
+      "nombre": "La familia perfecta",
+      "director": "Arantxa Echevarria",
+      "clasificacion": "Comedia",
+      "id": 11
+    },
+    {
+      "nombre": "La familia perfecta",
+      "director": "Arantxa Echevarria",
+      "clasificacion": "Comedia",
+      "id": 12
+    },
+    {
+      "nombre": "La familia perfecta",
+      "director": "Arantxa Echevarria",
+      "clasificacion": "Comedia",
+      "id": 13
+    }
+  ],
+  "clasificaciones": [
+    {
+      "nombre": "Drama",
+      "id": 1
+    },
+    {
+      "nombre": "Comedia",
+      "id": 2
+    },
+    {
+      "nombre": "Documental",
+      "id": 3
+    },
+    {
+      "nombre": "Acción",
+      "id": 4
+    }
+  ]
+}
